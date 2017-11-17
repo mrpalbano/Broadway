@@ -23,9 +23,22 @@ p {
   font-weight: normal;
 }
 
+nav {
+  font-size: 18px;
+  color: white;
+}
+.Toolbar, .namedrop {
+  background-image: image(../Broadway/resources/image/the-flatiron-building.png);
+}
+
+.footer {
+  background-color: dimgray;
+}
+
 .footer p {
   font-size: 11px;
   font-weight: normal;
+  text-align: left;
 }
 
 .footer nav {
